@@ -579,6 +579,7 @@ Aprovação dos significados e das peças (2026-09-26, literal): "1 A - 2 A".
 | Página interativa | `marca/10-brandbook.html` |
 | PDF executivo (47 páginas, A4 deitado) | `marca/10-brandbook-cliente-final.pdf` |
 | Livro diagramado (A5, 45 páginas) | `produto-22-leis/livro/as-22-leis-irrefutaveis-do-marketing.pdf` |
+| Link para enviar (público, GitHub Pages) | https://marcosbautitz.github.io/Highlevel/ (repositório MarcosBautitz/Highlevel; pasta local `_publicacao/highlevel/`, montada por `_docs/geradores/publicar_highlevel.py`) |
 
 Aprovação das escolhas padrão da entrega final (2026-09-26, literal): "A". Livro em A5 com páginas claras, anel ciano na carta e na conclusão, contracapa com frases aprovadas, seções 14 e 15 antes de Arquivos.
 
